@@ -79,7 +79,7 @@ typedef enum {
 //  Description:
 //    This class describes the functionalities of a Arc Timer, in particular, timer-1.
 //  Timer-0 is not available for this module to utilize.  The timers are clocked by
-//  a 32 HHz source and have 32-bit counters.
+//  a 32 MHz source and have 32-bit counters.
 //
 
 class CurieTimer
